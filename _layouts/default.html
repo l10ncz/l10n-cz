@@ -96,6 +96,7 @@
             </ul>
             <h1>Další</h1>
             <ul>
+                <li><a class="page-link" href="{{ '/zapojtese/' | prepend: site.baseurl }}">Zapojte se</a></li>
                 {% assign pages = (site.pages | sort: 'order') %}
                 {% for page in pages %}
                 {% if page.title and page.hide != true %}
