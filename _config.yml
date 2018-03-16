@@ -114,5 +114,4 @@ exclude:
   - Gemfile.lock
   - LICENSE
   - README.md
-  - vendor
-  - assets/l10n-slovnik
+  - release.sh
