@@ -15,6 +15,7 @@ Odpoledne se trochu reorganizujeme a více se zaměříme na témata, která pos
 - **kdy:** v pátek 25. května 2018 od 9:30 a odpoledne od cca 13:00
 - **kdo:** členové překladatelských komunit, příznivci otevřeného softwaru, zájemci o překlady obecně
 - **co:** překlady, terminologie, další lokalizační problematika a (nejen) Drupal.cz ;)
+- **události:** [Facebook](https://www.facebook.com/events/201162133943775/), [Meetup.com](https://www.meetup.com/Drupalcz/events/250581726)
 
 *Bonus: Pokud vás chyba na následující ceduli praští do očí, budete ideálním návštěvníkem. ;) Pokud ne, přijďte a my vám ji ukážeme.*
 
