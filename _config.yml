@@ -87,6 +87,7 @@ ogp:
 remote_theme: ttskch/jekyll-ttskch-theme
 gems:
   - jekyll-paginate
+  - jekyll-redirect-from
 
 #
 # Styles: see "_sass/base/_variables.scss"
@@ -96,7 +97,11 @@ gems:
 # !! Danger zone !!
 #
 
-include: ["_pages"]
+include: [
+  "_pages",
+  "assets",
+  "files"
+]
 
 markdown: kramdown
 kramdown:
