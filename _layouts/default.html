@@ -77,14 +77,12 @@
             </div>
             <h1>L10N.cz Wiki</h1>
             <ul>
-                <li><a href="http://wiki.l10n.cz">L10N.cz Wiki</a></li>
-                <li><a href="http://wiki.l10n.cz/Hlášení_chyb_v_překladech">Hlášení chyb v překladech</a></li>
-                <li><a href="http://wiki.l10n.cz/Překladatelský_slovník">Překladatelský slovník L10N</a></li>
-                <li><a href="http://wiki.l10n.cz/Překladatelské_slovníky">Slovníky překladatelských projektů</a></li>
-                <li><a href="http://wiki.l10n.cz/Překladatelské_týmy">Týmy překladatelů</a></li>
-                <li><a href="http://wiki.l10n.cz/Související_projekty">Související projekty</a></li>
-                <li><a href="http://wiki.l10n.cz/Návody_pro_překladatele">Návody pro překladatele</a></li>
-                <li><a href="http://wiki.l10n.cz/Pomůcky_pro_překladatele">Pomůcky pro překladatele</a></li>
+                <li><a href="https://wiki.l10n.cz/">Wiki L10N.cz</a></li>
+                <li><a href="https://wiki.l10n.cz/Hlášení_chyb_v_překladech">Hlášení chyb v překladech</a></li>
+                <li><a href="https://wiki.l10n.cz/Překladatelské_týmy">Překladatelské týmy</a></li>
+                <li><a href="https://wiki.l10n.cz/Překladatelský_slovník">Překladatelský slovník</a></li>
+                <li><a href="https://wiki.l10n.cz/Návody_pro_překladatele">Návody pro překladatele</a></li>
+                <li><a href="https://wiki.l10n.cz/Pomůcky_pro_překladatele">Pomůcky pro překladatele</a></li>
             </ul>
             <h1>E-mailová konference</h1>
             <ul>
@@ -96,7 +94,7 @@
             </ul>
             <h1>Další</h1>
             <ul>
-                <li><a class="page-link" href="{{ '/zapojtese/' | prepend: site.baseurl }}">Zapojte se</a></li>
+                <li><a href="https://wiki.l10n.cz/Jak_se_zapojit">Zapojte se</a></li>
                 {% assign pages = (site.pages | sort: 'order') %}
                 {% for page in pages %}
                 {% if page.title and page.hide != true %}
@@ -136,7 +134,7 @@
     <div class="inner">
         <span>Používá <a href="http://jekyllrb.com">Jekyll</a> a <a href="https://github.com/ttskch/jekyll-ttskch-theme">TtskchTheme</a>.
         <br/>Obsah stránky lze šířit za podmínek <a rel="license" href="https://creativecommons.org/licenses/by-sa/3.0/">Creative Commons Attribution-ShareAlike 3.0 Unported License</a>.
-        <br/>Copyright © 2007&ndash;2016 L10N.cz.</span>
+        <br/>Copyright © 2007&ndash;{{ site.time | date: '%Y' }} L10N.cz.</span>
     </div>
 </footer>
 
