@@ -82,11 +82,12 @@ ogp:
     app_id: # facebook application id
 
 #
-# Gems.
+# Plugins.
 #
 remote_theme: ttskch/jekyll-ttskch-theme
-gems:
+plugins:
   - jekyll-paginate
+  - jekyll-feed
   - jekyll-redirect-from
 
 #
