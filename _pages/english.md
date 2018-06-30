@@ -14,7 +14,7 @@ L10N.cz is a Czech community project for free and open source software localizat
 - improving the quality of translation,
 - simplify translators work, and avoiding duplicate translation efforts.
 
-The English-Czech translation glossary, which is [available on this site's L10N.cz Wiki](https://wiki.l10n.cz/Překladatelský_slovník), is the main resource for terminology unification. It has emerged from consensus among translators coming from different free and open source software projects, such as [GNOME](http://www.gnome.org/), [KDE](http://www.kde.org/), [Mozilla](http://www.mozilla.org/), various Linux distributions and other.
+The English-Czech translation glossary, which is [available on this site's L10N.cz Wiki](https://wiki.l10n.cz/Překladatelský_slovník), is the main resource for terminology unification. It has emerged from consensus among translators coming from different free and open source software projects, such as [GNOME](https://www.gnome.org/), [KDE](https://www.kde.org/), [Mozilla](https://www.mozilla.org/), various Linux distributions and other.
 
 Discussions on terminology and other English-Czech translation topics take place in the project's [mailing list](http://lists.l10n.cz/mailman/listinfo/diskuze)
 
