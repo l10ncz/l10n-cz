@@ -2,5 +2,4 @@
 _site/
 .bundle/
 .sass-cache/
-Gemfile.lock
 vendor/
