@@ -1,15 +1,12 @@
 language: ruby
-bundler_args: --path $HOME/.bundle
+bundler_args: --path $HOME/.bundle --with test
 cache:
   directories:
     - $HOME/.bundle
 
-before_script:
- - gem install html-proofer -v '~> 3.8'
-
 script:
  - bundle exec jekyll build
- - htmlproofer ./_site --disable-external --empty-alt-ignore
+ - bundle exec htmlproofer ./_site --disable-external --empty-alt-ignore
 
 before_deploy:
  - LAST_GIT_TAG="$(git describe --abbrev=0 --tags)"
