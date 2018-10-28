@@ -118,6 +118,7 @@ sass:
 exclude:
   - Gemfile
   - Gemfile.lock
+  - vendor
   - LICENSE
   - README.md
   - release.sh
