@@ -9,7 +9,7 @@ script:
  - bundle exec htmlproofer ./_site --disable-external --empty-alt-ignore
 
 before_deploy:
- - LAST_GIT_TAG="$(git describe --abbrev=0 --tags)"
+ - LAST_GIT_TAG="$(git describe --abbrev=0 --tags || echo 'HEAD')"
  - tar -cvzf "$LAST_GIT_TAG.tar.gz" -C _site/ .
 
 deploy:
