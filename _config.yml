@@ -7,7 +7,7 @@ url: https://www.l10n.cz
 baseurl: ""
 title: Překladatelská komunita L10N.cz
 description: Překládáme svobodný a otevřený software.
-avatar: /assets/img/logo.png
+avatar: /assets/img/logo.svg
 language: cs
 favicon: /favicon.ico
 
