@@ -5,11 +5,14 @@
 # baseurl: ""
 url: https://www.l10n.cz
 baseurl: ""
+
 title: Překladatelská komunita L10N.cz
 description: Překládáme svobodný a otevřený software.
+logo: /assets/img/logo.svg
 avatar: /assets/img/logo.svg
-language: cs
 favicon: /favicon.ico
+lang: cs
+language: cs
 
 #
 # Icons
@@ -86,6 +89,9 @@ ogp:
 #
 remote_theme: ttskch/jekyll-ttskch-theme
 plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
+  - jekyll-tidy
   - jekyll-paginate
   - jekyll-feed
   - jekyll-redirect-from
@@ -121,4 +127,3 @@ exclude:
   - vendor
   - LICENSE
   - README.md
-  - release.sh
