@@ -14,7 +14,7 @@ Michal Stanke - *mstanke zavináč mozilla.cz*
 Václav Čermák - *vaclav.cermak zavináč gmail.com*
 
 ### Sponzor domény l10n.cz:
-[Občanské sdružení Ubuntu pro Českou republiku](http://sdruzeni.ubuntu.cz/)
+[Občanské sdružení Ubuntu pro Českou republiku](https://sdruzeni.ubuntu.cz/)
 
 ### Autor srovnávacího slovníku:
 Martin Böhm - jabber: *mhb zavináč jabber.cz*
