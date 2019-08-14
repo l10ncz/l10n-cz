@@ -6,6 +6,12 @@ hide: true
 share: false
 ---
 
-Z důvodu [havárie serveru]({{ site.baseurl }}{% link _posts/2019-08-13-havarie-serveru-s-wiki-a-emailovou-konferenci.md %}),
-na kterém byla e-mailová konference provozována, je její provoz dočasně přerušen. V tuto chvíli hledáme vhodné technické řešení
-jako náhradu. Omlouváme se za komplikace.
+Naše překladatelská konference se [nachází na Google Groups](https://groups.google.com/d/forum/diskuze-l10n-cz) a její e-mailová adresa je [diskuze-l10n-cz@googlegroups.com](mailto:diskuze-l10n-cz@googlegroups.com).
+
+### Přihlášení
+
+Pro oběr nebo před posláním první zprávy se prosím do konference přihlaste. To můžete učinit buď skrze [formulář](https://groups.google.com/d/forum/diskuze-l10n-cz/join) nebo posláním zprávy na `diskuze-l10n-cz [plus] subscribe@googlegroups.com`.
+
+### Stará konference
+
+Informace o staré konferenci, která byla v provozu do srpna 2019, najdete na adrese [lists.l10n.cz](https://lists.l10n.cz/).
