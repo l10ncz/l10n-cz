@@ -3,6 +3,10 @@ layout: post
 title: Havárie serveru s wiki a e-mailovou konferencí
 ---
 
+### Aktualizováno 15. srpna 2019
+
+Provoz wiki obnoven, jsme zpět v provozním režimu!
+
 ### Aktualizováno 14. srpna 2019
 
 Provoz e-mailové konference jsem se rozhodl urychleně obnovit na Google Groups. Informace k nové konferenci najdete na [této stránce]({{ site.baseurl }}{% link _pages/emailova-konference.md %}). Na obnově wiki zatím pracuji.
