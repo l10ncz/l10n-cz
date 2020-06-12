@@ -1,0 +1,173 @@
+[
+
+{
+"id": "-2019-10-13-novy-cesky-slovnik-pro-kontrolu-pravopisu",
+"title": "Nový český slovník pro kontrolu pravopisu &ndash; Stanislav Horáček",
+"author": null,
+"tags": [],
+"url": "/2019/10/13/novy-cesky-slovnik-pro-kontrolu-pravopisu/",
+"date": "2019-10-13",
+"content": "Na serveru YouTube je k dispozici přednáška Stanislava Horáčka z konference LinuxDays 2019, která shrnuje vývoj kolem nového otevřeného Českého tvarotvorného slovníku a představuje na něj navazující projekt ceskeslovniky.cz.Historii spolupráce českých překladatelských komunit na hledání a přípravě open source slovníku pro kontrolu pravopisu lze spolu s dalšími informacemi k tématu nalézt na wiki.l10n.cz."
+}, 
+
+{
+"id": "-2019-08-13-havarie-serveru-s-wiki-a-emailovou-konferenci",
+"title": "Havárie serveru s wiki a e-mailovou konferencí",
+"author": null,
+"tags": [],
+"url": "/2019/08/13/havarie-serveru-s-wiki-a-emailovou-konferenci/",
+"date": "2019-08-13",
+"content": "Aktualizováno 15. srpna 2019Provoz wiki obnoven, jsme zpět v provozním režimu!Aktualizováno 14. srpna 2019Provoz e-mailové konference jsem se rozhodl urychleně obnovit na Google Groups. Informace k nové konferenci najdete na této stránce. Na obnově wiki zatím pracuji.Původní příspěvek z 13. srpna 2019Zdravím všechny. Po delší době jsem se dostal (nedobrovolně) k napsání nové zprávy a bohužel je to špatná zpráva. Včera večer došlo k výpadku v datacentru Tower, po kterém se disky serveru yasha.ubuntu.cz odebraly do křemíkového nebe… Dopady pro Ubuntu.cz nejsou tak dramatické (viz fórum), pro L10N.cz je to ale trochu horší. Na serveru yasha běžela naše překladatelská wiki a e-mailová konference.Pro překladatelskou wiki, které by mi bylo moc moc líto, mám naštěstí zálohy alespoň z dubna. Snažím se ještě najít nějaké novější a obnovu optimisticky předpokládám během následujícího týdne. E-mailové konference zálohované nemám, ale pokusím se brzy přijít s nějakou funkční alternativou (nový mailinglist, fórum, Telegram, …). V mezidobí prosím pro alespoň přibližný náhled používejte web.archive.org.Michal Stanke"
+}, 
+
+{
+"id": "-2018-10-28-mozilla-cz-preklada-prohlizec-tor",
+"title": "Mozilla.cz překládá prohlížeč Tor",
+"author": null,
+"tags": ["l10n", "novinka", "překlad"],
+"url": "/2018/10/28/mozilla-cz-preklada-prohlizec-tor/",
+"date": "2018-10-28",
+"content": "Komunita okolo webu Mozilla.cz překládá projekt Mozilla včetně prohlížeče Firefox. Z Firefoxu vychází i prohlížeč Tor, který pro načítání webových stránek používá stejnojmennou anonymizační síť Tor.Síť Tor anonymizuje přístup k webových stránkám tak, že veškerá komunikace putuje šifrovaně přes tři další počítače různě po světě. Tímto způsobem se dá dokonce obejít státní cenzuru v různých zemích. Zároveň prohlížeč o sobě a uživateli sděluje minimum informací, takže je velmi složité nebo nemožné návštěvníka stránek vysledovat.I když prohlížeč Tor vychází z Firefoxu a velká většina uživatelského rozhraní je tedy přeložena, některé komponenty jsou v Toru navíc a potřebují vlastní překlad. Např. spouštěč, který se postará o připojení do sítě, nebo některé přibalené doplňky zajištující ovládání Toru. Mozilla.cz se toho ujala a stav práce včetně odkazů na wiki projektu najdete na zde L10N.cz Wiki. Pokud chcete přiložit ruku k dílu, najdete na stránce i odkaz na projekt na Transifexu, kde můžete pomoci svými návrhy.V době psaní této zprávičky jsou základní soubory přeloženy a ještě zbývá dokončit jejich kontrolu. Datum vydání prohlížeče Tor v češtině tak zatím domluveno není."
+}, 
+
+{
+"id": "-2018-05-26-jake-bylo-prvni-lokalizacni-setkani-v-praze",
+"title": "Jaké bylo první lokalizační setkání v Praze",
+"author": null,
+"tags": ["projekt", "setkání", "praha"],
+"url": "/2018/05/26/jake-bylo-prvni-lokalizacni-setkani-v-praze/",
+"date": "2018-05-26",
+"content": "V pátek 25. května proběhlo první lokalizační setkání v Praze. Sešlo se nás 12, bohužel zastoupení projektů už tak velké nebylo (Drupal, Mozilla a Linux Mint).Dopoledne přibližně od 10 do půl jedné jsme proto věnovali hlavně překladu Drupalu (posunuli jsme ho o nějakých 700 řetězců) a zlepšení informací a návodu, jak ho překládat. Odpoledne jsme už ve větším počtu utřídili a doplnili informace na wiki, řešili začlenění dokumentace překladů Drupalu a celý den zakončili rekapitulací a krátkým povídáním o L10N.cz obecně a lokalizačním formátu Fluent.Příští velké setkání by mohlo předběžně proběhnout v Brně někdy na podzim."
+}, 
+
+{
+"id": "-2018-05-07-prvni-lokalizacni-setkani-praha-25-kvetna",
+"title": "První lokalizační setkání (Praha 25. května)",
+"author": null,
+"tags": ["projekt", "setkání", "praha"],
+"url": "/2018/05/07/prvni-lokalizacni-setkani-praha-25-kvetna/",
+"date": "2018-05-07",
+"content": "V pátek 25. května proběhne v Praze v budově Českého rozhlasu setkání komunity Drupal.cz a v rámci něj i první lokalizační setkání. Akce je vhodná pro profesionální překladatele, kteří mají zájem o fungování překladů komunitních, zkušené členy komunity i „laickou“ veřejnost se zájmem o lokalizaci softwaru.Prostory v budově Českého rozhlasu (Vinohradská 12, Praha 2) budou otevřeny od 9:30 ráno. Protože je to přece jen pracovní den, počítáme s tím, že dopolední účast nebude kompletní. Dopoledne se tedy příchozí rozdělí na skupiny podle témat a problémů, které si na začátku určí, a budou je vždy u svého stolu v kruhu řešit. Rozhodně se ale nebojte přijít i bez jakýchkoliv překladatelských zkušeností, celý den bude prostor se na cokoliv zeptat nebo si nechat ukázat, jak překlady vypadají.Odpoledne se trochu reorganizujeme a více se zaměříme na témata, která postupně vykrystalizují do večerních lightning talks. Večer tedy bude vyhrazený přednášce o překladech Drupalu, lightning talks o dalších projektech nebo o tom, co jsme udělali přes den, a nějakému networkingu. Celý den, pokud ještě zbudou síly, můžeme završit v některém z blízkých podniků.Takže:  kde: Český rozhlas - Vinohradská 12, Praha 2 (mapa)  kdy: v pátek 25. května 2018 od 9:30 a odpoledne od cca 13:00  kdo: členové překladatelských komunit, příznivci otevřeného softwaru, zájemci o překlady obecně  co: překlady, terminologie, další lokalizační problematika a (nejen) Drupal.cz ;)  události: Facebook, Meetup.comBonus: Pokud vás chyba na následující ceduli praští do očí, budete ideálním návštěvníkem. ;) Pokud ne, přijďte a my vám ji ukážeme."
+}, 
+
+{
+"id": "-2016-12-05-prvni-diskuze-nad-slovnikem",
+"title": "První diskuze nad slovníkem",
+"author": null,
+"tags": ["projekt", "slovník"],
+"url": "/2016/12/05/prvni-diskuze-nad-slovnikem/",
+"date": "2016-12-05",
+"content": "    V naší e-mailové konferenci jsme se rozhodli popostrčit návrhy na úpravu překladatelského slovníku a sešli jsme se včera po osmé hodině večerní na chatu. Celou historii diskuze najdete zde.    Během více než hodiny jsme stihli projít pět návrhů z celkem asi dvaceti (budeme tedy potřebovat takových diskuzí víc). Prošli jsme návrhy About (název aplikace)..., spreadsheet, argument a parametr, report, clear, remove a delete. Zmiňované pokračování se pokusíme navázat ještě tento týden. Pokud máte zájem jej sledovat, přihlaste se do naší e-mailové konference, kde se na termínu domlouváme."
+}, 
+
+{
+"id": "-2016-10-27-dalsi-na-rade-je-openalt",
+"title": "Další na řadě je OpenAlt",
+"author": null,
+"tags": ["openalt", "projekt"],
+"url": "/2016/10/27/dalsi-na-rade-je-openalt/",
+"date": "2016-10-27",
+"content": "    Měsíc po pražských LinuxDays se v Brně koná také konference OpenAlt. Ani na ní nebudeme chybět a rádi bychom tak pozvali všechny zájemce o lokalizaci na naše setkání, které proběhne jako volná diskuze v sobotu 5. listopadu od 15 hodin. Pokud nesledujete naši e-mailovou konferenci, zrekapitulujeme závěry z LinuxDays a pak můžeme navázat, jak se nám daří se slovníkem pro kontrolu překlepů i slovníkem překladatelským.    "
+}, 
+
+{
+"id": "-2016-10-13-report-z-linuxdays",
+"title": "Report z LinuxDays",
+"author": null,
+"tags": ["linuxdays", "projekt"],
+"url": "/2016/10/13/report-z-linuxdays/",
+"date": "2016-10-13",
+"content": "    Minulý víkend v proběhla v Praze konference LinuxDays, na které jsme nesměli chybět. Rozhodli jsme se L10N.cz oživit a LinuxDays byla perfektní příležitost pro setkání. V sobotu jste tak mohli navštívit naši otevřenou diskuzi, kde jsme probrali, co nás nejvíce trápí a jaká témata chceme řešit jako první.    Překladatelský slovník a terminologie    Tak jako na nějaký čas nebylo okolo L10N.cz mnoho dění, nedělo asi ani okolo našeho překladatelského slovníku. Nejprve jej tedy projdeme a prodiskutujeme sporná slova. A až budeme všichni spokojení, začneme pracovat na rozšiřování a dokumentování další terminologie, kterou budeme v překladech co nejjednotněji používat. Rádi bychom dotáhli slovník také po technické stránce a nabídli jej ve strojově čitelném formátu, který bude použitelný v našich nástrojích včetně možnosti pravidelně generovat a aktualizovat stránku na naší wiki.Slovník pro kontrolu překlepů    Stávající český slovník, který používají snad všechny open source programy a aplikace, má už svůj věk a není moc aktualizovaný. Začínáme tak hledat zdroj dat pro nový slovník, kterým by mohl být ÚJČ nebo některá z českých vysokých škol, ale zatím s nimi nejsme ve spojení. Nový slovník bychom rádi uvolnili pod svobodnější licencí, než je současná GPL, a počítáme s možností hlášení chyb od uživatelů.    Chcete-li se do naší diskuze zapojit a pomoci nám pozvednout kvalitu dokumentace i české lokalizace samotné, nebo se lokalizací a překlady přímo zabýváte, přidejte se do naší e-mailové konference."
+}, 
+
+{
+"id": "-2016-09-17-linuxdays",
+"title": "Sejdeme se na LinuxDays",
+"author": null,
+"tags": ["linuxdays", "projekt"],
+"url": "/2016/09/17/linuxdays/",
+"date": "2016-09-17",
+"content": "    V předchozím příspěvku krátce po migraci webu jsme vyjmenovali cíle L10N.cz. S jejich plněním to myslíme opravdu vážně, a proto se sejdeme v Praze na LinuxDays. Setkání proběhne hned v sobotu 8. října v otevřené místnosti, jak se můžete přesvědčit v programu. Předcházet bude asi dvacetiminutové představení lokalizace od Mozilla.cz, po kterém se v půl čtvrté pustíme do víru diskuze nad možnostmi vzájemné spolupráce mezi jednotlivými komunitami.        Přihlaste se do naší e-mailové konference a sledujte dění ještě před samotnou konferencí."
+}, 
+
+{
+"id": "-2016-03-24-uvod",
+"title": "Překladatelská komunita svobodného a otevřeného softwaru",
+"author": null,
+"tags": [],
+"url": "/2016/03/24/uvod/",
+"date": "2016-03-24",
+"content": "Cíle L10N.cz čili českého projektu zaměřeného na lokalizaci svobodného a otevřeného softwaru lze shrnout do následujících bodů:sjednocování překladatelské terminologie v oblasti svobodného a otevřeného softwaru,spolupráce mezi překladatelskými týmy z různých projektů,získání nových zájemců o překlad,zkvalitňování úrovně překladů,zjednodušování práce na překladech a odstraňování duplicitních překladů.Významným nástrojem pro sjednocování terminologie je překladatelský slovník, který je dostupný na L10N Wiki tohoto serveru. Je výsledkem konsenzu překladatelů z různých svobodných a otevřených softwarových projektů, jakými jsou např. GNOME, KDE, Mozilla, Debian, Ubuntu a mnohé další.Diskuze o terminologii a dalších úskalích lokalizace do českého jazyka probíhá na překladatelské e-mailové konferenci.L10N Wiki obsahuje kromě překladatelského slovníku i popis základních pravidel, pomůcek a lokalizačních nástrojů užitečných pro začínajícího i pokročilého přispěvatele do komunitního překládání softwaru. Součástí jsou i odkazy na další slovníky, weby překladatelských týmů a související lokalizační projekty. Upravovat tuto wiki může každý, registrovaný i neregistrovaný uživatel.Chcete-li také přispět k tomu, aby se čeští uživatelé mohli pohybovat v jazykově konzistentním prostředí, kde nebudou stejné věci přeložené různým způsobem, zapojte se!Hledáte-li pouze kontakty na autory a přispěvatele tohoto projektu, navštivte patřičnou stránku."
+}, 
+
+{
+"id": "-2016-03-23-migrace",
+"title": "Migrace www.l10n.cz na Jekyll",
+"author": null,
+"tags": ["l10n", "novinka"],
+"url": "/2016/03/23/migrace/",
+"date": "2016-03-23",
+"content": "Webová prezentace na www.l10n.cz byla migrována z dnes již nepodporovaného Drupal 6 na staticky generovaný Jekyll a QckTheme.Zdroj je k dipozici na https://github.com/pmkovar/l10ncz, komentáře a pull requests vítány!"
+}, 
+
+{
+"id": "-2011-03-14-domena-l10ncz",
+"title": "Doména l10n.cz",
+"author": null,
+"tags": ["domena"],
+"url": "/2011/03/14/domena-l10ncz/",
+"date": "2011-03-14",
+"content": "V minulém týdnu byla doména l10n.cz převedena na Občanské sdružení Ubuntu pro Českou republiku a expirace prodloužena na dalších pět let. Poděkování patří Vojtěchu Trefnému ze sdružení a Václavu Čermákovi coby původnímu držiteli domény za podporu projektu L10N.cz."
+}, 
+
+{
+"id": "-2010-03-18-zapojtese",
+"title": "Zapojte se do překládání",
+"author": null,
+"tags": ["l10n", "novinka", "projekt", "překlad"],
+"url": "/2010/03/18/zapojtese/",
+"date": "2010-03-18",
+"content": "Komunitní překladatelské týmy i jednotlivci neustále pracují na lokalizaci rozličných projektů ze světa svobodného a otevřeného softwaru, ale prakticky všechny spojuje jedno dlouhotrvající negativum, totiž nedostatek překladatelů-dobrovolníků, kteří by byli ochotni zapojit se alespoň symbolickou měrou do některé z existujících překladatelských komunit. Možností, kde lze nabídnout pomoc, je přitom celá řada: seznam překladatelských týmů, kterým se svou sdružující činností věnuje web L10N.cz, je k dispozici na wiki tohoto projektu. Jedná se o týmy pracující na lokalizaci pracovních prostředí (GNOME, KDE aj.), kancelářského balíku (OpenOffice.org), webových prohlížečů (např. Firefox), systému GNU, několika linuxových distribucí (Ubuntu, Debian, Fedora, openSUSE, Mandriva atd.) a dalších projektů.Malé FAQJaké znalosti a zkušenosti jsou po zájemci o překlad vyžadovány?Nároky na překladatele se zpravidla do jisté míry liší projekt od projektu. Překlad uživatelské aplikace jistě bude vyžadovat jinou míru a podobu znalostí než překlad vývojářské knihovny s velmi specifickým účelem. Dobrá (nikoliv však nutně vynikající) znalost angličtiny a bezproblémová znalost češtiny by měla být samozřejmostí, vhodná je i alespoň základní znalost softwaru, který se překladatel rozhodne lokalizovat.Ostatní překladatelé také většinou očekávají, že nový zájemce bude při překladu respektovat dříve dohodnutá či zažitá pravidla, k čemuž by mělo patřit i používání konzistentní terminologie.Kolik času budu muset překládání věnovat?Opět se může lišit v závislosti na projektu a překladatelské komunitě. Obvykle ale i vzhledem k výše zmíněnému nedostatku ochotných dobrovolníků může podstatným způsobem pomoci i symbolická či krátkodobá výpomoc. Hledají se tedy lidé schopní obětovat této činnosti libovolné množství ze svého volného času."
+}, 
+
+{
+"id": "-2010-02-14-terminologie",
+"title": "Glosář pro Lokalize",
+"author": null,
+"tags": ["l10n", "novinka", "software", "terminologie"],
+"url": "/2010/02/14/terminologie/",
+"date": "2010-02-14",
+"content": "Glosář ve formátu TBX a TMX, který v editoru Lokalize slouží jako doplňující terminologická paměť ke standardní překladové paměti (TM), si můžete stáhnout níže.Glosář sestavil Vít Pelčák, upravil Petr Kovář. Michalu Čihařovi patří dík za skript pro jeho automatické generování.terms.tbxterms.tmx"
+}, 
+
+{
+"id": "-2007-07-30-konference",
+"title": "Poštovní konference",
+"author": null,
+"tags": ["l10n", "novinka"],
+"url": "/2007/07/30/konference/",
+"date": "2007-07-30",
+"content": "Spuštěna poštovní konference projektu."
+}, 
+
+{
+"id": "-2007-07-29-zminka",
+"title": "První veřejná zmínka",
+"author": null,
+"tags": ["l10n", "novinka"],
+"url": "/2007/07/29/zminka/",
+"date": "2007-07-29",
+"content": "První veřejná zmínka o projektu na serveru ABC Linuxu."
+}, 
+
+{
+"id": "-2007-02-01-porizeni",
+"title": "Pořízení domény l10n.cz",
+"author": null,
+"tags": ["l10n", "novinka"],
+"url": "/2007/02/01/porizeni/",
+"date": "2007-02-01",
+"content": "Mezi několika překladateli nastala diskuze o potřebě překladatelského centra. Výsledkem je idea projektu L10N a pořízení domény l10n.cz."
+}
+
+]
